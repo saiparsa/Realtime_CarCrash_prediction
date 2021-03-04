@@ -2,11 +2,6 @@
 
 **Project:** **INDYCAR VIDEO CRASH DETECTION USING SPATIO-TEMPORAL AUTOENCODER**
 
-**Team Members:**
-
-Sai Prasad Parsa
-
-Humshavarthini Karunanidhi
 
 **Summary:**
 There is an increasing need not only for recognition of objects and their behavior but in particular for detecting the rare, interesting occurrences of unusual objects or suspicious behavior in the large body of ordinary data. Finding such abnormalities in Indycar race videos is crucial to provide increased safety and to develop better winning strategies for the drivers in the Series. Abnormal events that are of interest to us in the IndyCar race events are car crashes or damages. But these events often have an extremely low probability of occurring in long video footage. As such, it is a very meticulous job to manually detect such events, or anomalies, that often requires more manpower than is generally available. This has prompted the need for developing an automated detection of anomalies or crashes in the IndyCar race events and motivated us to use a deep learning approach.
